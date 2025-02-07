@@ -17,7 +17,7 @@ I am a practical and analytical cybersecurity professional who enjoys breaking d
 | **Skill**                         | **Associated Project**          |  
 |-----------------------------------|------------------------------|  
 | Vulnerability Scanning & Analysis | https://github.com/Lateefaholagoke/Vulnerability-Scanning-               |  
-| Network Traffic Monitoring        |              |  
+| Network Traffic Monitoring        | https://github.com/Lateefaholagoke/Network-Traffic-Analysis-             |  
 | Firewall & IDS Configuration      |     |  
 | System Hardening                  |     |  
 | Log Analysis & Automation         |       |  
