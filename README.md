@@ -19,7 +19,7 @@ I am a practical and analytical cybersecurity professional who enjoys breaking d
 | Vulnerability Scanning & Analysis | https://github.com/Lateefaholagoke/Vulnerability-Scanning-               |  
 | Network Traffic Monitoring        | https://github.com/Lateefaholagoke/Network-Traffic-Analysis-             |  
 | Firewall Configuration            | https://github.com/Lateefaholagoke/Firewall-Config-
-| System Hardening                  | https://github.com/Lateefaholagoke/Firewall-Config-    |  
+| System Hardening                  |    |  
 | Log Analysis & Automation         |       |  
 
 
